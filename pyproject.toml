@@ -1,5 +1,5 @@
 [project]
-name = "att"
+name = "ttank"
 version = "0.1.0"
 description = "Alby: ThinkTank - AI document library orchestrator"
 readme = "README.md"
