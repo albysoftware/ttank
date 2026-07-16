@@ -1,0 +1,7 @@
+[project]
+name = "att"
+version = "0.1.0"
+description = "Alby: ThinkTank - AI document library orchestrator"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
